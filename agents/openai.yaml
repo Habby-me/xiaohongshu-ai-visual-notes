@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书 AI 知识图解"
+  short_description: "为 AI 初学者策划并生成 3:4 小红书知识图组"
+  default_prompt: "使用 $xiaohongshu-ai-visual-notes，把我提供的 AI 主题素材策划为可确认后生成的小红书知识图组。"
